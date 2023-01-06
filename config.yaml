@@ -41,7 +41,7 @@ Fonts:
     CASL: 1
     wght: 400
     slnt: 0
-    CRSV: 0
+    CRSV: 1
 
   Italic:
     MONO: 1
@@ -55,7 +55,7 @@ Fonts:
     CASL: 1
     wght: 750
     slnt: 0
-    CRSV: 0
+    CRSV: 1
 
   Bold Italic:
     MONO: 1
